@@ -1,2 +1,2 @@
-# Discord-colored-titlebar-tampermonkey
-Change titlebar color for Discord shortcut/window
+# Colored titlebar for Discord
+Tampermonkey script for changing Discord's titlebar color.
