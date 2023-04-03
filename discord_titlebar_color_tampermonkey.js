@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name            Discord colored title bar
+// @name:cn         Discord 彩色标题栏
 // @version         0.1
 // @description     Change title bar color for Discord web app
 // @description:cn  更改 Discord 的标题栏颜色
