@@ -1,10 +1,13 @@
 // ==UserScript==
-// @name         Discord colored title bar
-// @version      0.1
-// @description  Change title bar color for Discord web app
-// @author       Jiayuan "Weldon" Wen
-// @match        https://discord.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=discord.com
+// @name            Discord colored title bar
+// @version         0.1
+// @description     Change title bar color for Discord web app
+// @description:cn  更改 Discord 的标题栏颜色
+// @author          Jiayuan "Weldon" Wen
+// @copyright       none (public-domain)
+// @match           https://discord.com/*
+// @icon            https://www.google.com/s2/favicons?sz=64&domain=discord.com
+// @grant           none
 // ==/UserScript==
 
 (function() {
