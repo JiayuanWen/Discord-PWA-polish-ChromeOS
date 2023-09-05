@@ -1,5 +1,5 @@
 # Colored titlebar for Discord
-Tampermonkey script for changing Discord's titlebar color. \
+Tampermonkey script for changing Discord's titlebar color, making it look like native ChromeOS app. \
 [Installation tutorial](https://github.com/JiayuanWen/Discord-colored-titlebar-tampermonkey/wiki/Installation)
 
 #### Before
